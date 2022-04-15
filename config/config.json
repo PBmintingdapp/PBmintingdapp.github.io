@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xaF9a20687D0B469881Ce70DA783112500F92C3db",
-  "SCAN_LINK": "https://polygonscan.com/token/0xaf9a20687d0b469881ce70da783112500f92c3db",
+  "CONTRACT_ADDRESS": "0x580aC36BEBAc9bD2F71528c90312ee514bc70a92",
+  "SCAN_LINK": "https://polygonscan.com/address/0x580ac36bebac9bd2f71528c90312ee514bc70a92",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "Peaky Binders sketch",
-  "SYMBOL": "PB",
+  "NFT_NAME": "Peaky Blinders sketch club",
+  "SYMBOL": "PBC",
   "MAX_SUPPLY": 3000,
-  "WEI_COST": 59000000000000000000,
-  "DISPLAY_COST":59,
-  "GAS_LIMIT": 1485000,
+  "WEI_COST": 79000000000000000000,
+  "DISPLAY_COST":79,
+  "GAS_LIMIT": 1285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/peaky-blinders-sketch",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/peaky-blinders-sketch-club",
   "SHOW_BACKGROUND": true
 }
