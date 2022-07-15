@@ -9,9 +9,9 @@
   "NFT_NAME": "Peaky Blinders sketch club",
   "SYMBOL": "PBC",
   "MAX_SUPPLY": 3000,
-  "WEI_COST": 200000000000000000000,
-  "DISPLAY_COST":200,
-  "GAS_LIMIT": 1285000,
+  "WEI_COST": 150000000000000000000,
+  "DISPLAY_COST":150,
+  "GAS_LIMIT": 2000000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/peaky-blinders-sketch-club",
   "SHOW_BACKGROUND": true
